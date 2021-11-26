@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluralSight_Events_Demo", "PluralSight_Events_Demo.csproj", "{BAB5CBA4-1FF0-4212-845D-A343FB76D09E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAB5CBA4-1FF0-4212-845D-A343FB76D09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB5CBA4-1FF0-4212-845D-A343FB76D09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB5CBA4-1FF0-4212-845D-A343FB76D09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB5CBA4-1FF0-4212-845D-A343FB76D09E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
